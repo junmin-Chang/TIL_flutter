@@ -1,0 +1,3 @@
+Enum myEnum {car, superCar, hyperCar};
+
+We can simply make optional named choices other than numbering choices
