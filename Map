@@ -1,0 +1,17 @@
+Map<String, int> phoneBook = {
+
+'junmin': 01074981190,
+'yujin': 01012345678,
+'sungmin':01056789876
+}
+
+##add to Map
+
+phoneBook['jungkyu'] = 01055555555
+
+print(phoneBook);
+
+result --> {'junmin': 01074981190,
+'yujin': 01012345678,
+'sungmin':01056789876,
+'jungkyu' : 01056789876}
