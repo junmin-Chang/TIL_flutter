@@ -1,0 +1,4 @@
+Stateful Widget's LifeCycle
+
+
+initState -> build -> deactivate
