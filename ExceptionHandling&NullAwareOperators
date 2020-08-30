@@ -1,9 +1,9 @@
 try {
 
-##some codes to try
+## some codes to try
 }
 
 catch (e) {
-##print(e)
-##if codes in {try block} , print(e) in {catch block} excutes
+## print(e)
+## if codes in {try block} , print(e) in {catch block} excutes
 }
