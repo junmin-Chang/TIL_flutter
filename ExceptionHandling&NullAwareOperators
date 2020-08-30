@@ -1,3 +1,4 @@
+Exception Handling
 try {
 
  some codes to try
@@ -7,3 +8,13 @@ catch (e) {
  print(e)
  if codes in {try block} , print(e) in {catch block} excutes
 }
+
+
+Null Aware Operators
+
+myNumber = null;
+
+margin: EdgeInsets.all(myNumber ?? 30),
+
+
+?? --> if myNumber is null, turn myNumber into 30
