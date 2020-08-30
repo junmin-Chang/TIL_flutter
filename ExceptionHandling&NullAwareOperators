@@ -1,0 +1,9 @@
+try {
+
+##some codes to try
+}
+
+catch (e) {
+##print(e)
+##if codes in {try block} , print(e) in {catch block} excutes
+}
