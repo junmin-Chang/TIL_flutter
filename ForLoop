@@ -1,0 +1,22 @@
+<Basic C style for loop>
+
+for (int i = 0; i < 10; i++) {
+
+print(i);
+}
+----> 0...9
+
+
+
+<for in loop>
+
+List<String> fruits = ['pair', 'apple', 'banana'];
+
+for (fruit in fruits) {
+
+print(fruit);
+
+}
+
+
+---> 'pair', 'apple', 'banana'
